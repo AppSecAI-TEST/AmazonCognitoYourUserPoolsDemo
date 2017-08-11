@@ -1,0 +1,77 @@
+Index: app/src/main/res/layout/content_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/content_main.xml	(revision )
++++ app/src/main/res/layout/content_main.xml	(revision )
+@@ -26,12 +26,12 @@
+     tools:context="com.amazonaws.youruserpools.MainActivity">
+ 
+     <ImageView
+-        android:layout_width="110dp"
+-        android:layout_height="110dp"
++        android:layout_width="650dp"
++        android:layout_height="100dp"
+         android:id="@+id/imageViewAppMainCognitoIcon"
+         android:layout_alignParentTop="true"
+         android:layout_centerHorizontal="true"
+-        android:src="@mipmap/cognito"
++        android:src="@mipmap/pentairlogo"
+         android:scaleType="fitXY"/>
+ 
+     <Space
+@@ -45,7 +45,6 @@
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:textAppearance="?android:attr/textAppearanceLarge"
+-        android:text="@string/app_main_screen_title"
+         android:textSize="30dp"
+         android:id="@+id/textViewAppMainTitle"
+         android:layout_below="@+id/space_1"
+@@ -58,43 +57,17 @@
+         android:layout_below="@+id/textViewAppMainTitle"
+         android:layout_alignParentStart="true" />
+ 
+-    <TextView
+-        android:layout_width="match_parent"
+-        android:layout_height="wrap_content"
+-        android:textAppearance="?android:attr/textAppearanceSmall"
+-        android:text="@string/app_main_desc"
+-        android:id="@+id/textView"
+-        android:layout_below="@+id/space"
+-        android:layout_centerHorizontal="true" />
+-
+-    <Space
+-        android:layout_width="match_parent"
+-        android:layout_height="@dimen/activity_inter_group_separation"
+-        android:layout_below="@+id/textView"
+-        android:layout_centerHorizontal="true"
+-        android:id="@+id/space2" />
+-
+-    <TextView
+-        android:layout_width="match_parent"
+-        android:layout_height="wrap_content"
+-        android:textAppearance="?android:attr/textAppearanceSmall"
+-        android:textSize="@dimen/activity_text_size_small"
+-        android:text=" "
+-        android:id="@+id/textViewUserIdLabel"
+-        android:layout_below="@+id/space2"
+-        android:layout_centerHorizontal="true" />
+-
+     <EditText
+         android:layout_width="match_parent"
+         android:layout_height="@dimen/activity_text_height"
+         android:paddingLeft="@dimen/activity_text_padding"
+         android:paddingRight="@dimen/activity_text_padding"
+         android:id="@+id/editTextUserId"
+-        android:layout_below="@+id/textViewUserIdLabel"
+         android:layout_centerHorizontal="true"
+         android:background="@drawable/text_border_selector"
+         android:hint="Username"
+-        android:inputType="textPersonName"/>
++        android:inputType="textPersonName"
++        android:layout_below="@+id/space" />
+ 
+     <TextView
+         android:layout_width="match_parent"

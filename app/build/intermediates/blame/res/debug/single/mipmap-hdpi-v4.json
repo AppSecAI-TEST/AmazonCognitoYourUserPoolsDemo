@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_visibility_black.png",
+        "source": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_visibility_black.png"
+    },
+    {
+        "merged": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\pentairlogo.png",
+        "source": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\mipmap-hdpi\\pentairlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\cognito.png",
+        "source": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\mipmap-hdpi\\cognito.png"
+    },
+    {
+        "merged": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_visibility_off_black.png",
+        "source": "C:\\Users\\e1218969\\Downloads\\aws-sdk-android-samples-master\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_visibility_off_black.png"
+    }
+]
